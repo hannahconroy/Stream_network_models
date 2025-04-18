@@ -1,7 +1,7 @@
 # Stream Network Models 
 
 
-We updated the stream network model developed by Saccardi and Winnick (2021) and Conroy et al. (2023) to predict pCO₂ for 5 NEON sites across the United States. The stream network model allows us to address the issue of heterogeneity by accounting for variability in hydrology throughout the stream. We updated the model by running the models daily over a five year time period with NEON data as inputs. We also included a way to estimate stream permanance at each site to determine how changing the stream network lines based on the flow regime affects CO₂ emissions estimates. 
+We updated the stream network model developed by Saccardi and Winnick (2021) and Conroy et al. (2023) to predict pCO₂ for 5 NEON sites across the United States. The stream network model allows us to address the issue of heterogeneity by accounting for variability in hydrology throughout the stream. We updated the model by running the models daily over a six year time period with NEON data as inputs. We also included a way to estimate stream permanance at each site to determine how changing the stream network lines based on the flow regime affects CO₂ emissions estimates. 
 
 
 
