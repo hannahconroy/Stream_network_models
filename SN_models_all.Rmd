@@ -13,7 +13,7 @@ Define the folder location within this block of code as it sets working director
 
 ```{r setup, include=FALSE, echo=FALSE}
 require("knitr")
-opts_knit$set(root.dir ='/Users/Hannah/Library/CloudStorage/OneDrive-UW/NEON Data/WEPP/SN_files/')
+opts_knit$set(root.dir =SET DIRECTORY HERE WITH FOLDERS')
 ```
 
 Get initial data. This is run and used in following chunks to speed up model runs. Run first and set desired month.
