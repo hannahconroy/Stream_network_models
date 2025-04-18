@@ -7,4 +7,6 @@ We updated the stream network model developed by Saccardi and Winnick (2021) and
 
 # Sources
 Saccardi, B., & Winnick, M. (2021). Improving Predictions of Stream CO <sub>2</sub> Concentrations and Fluxes Using a Stream Network Model: A Case Study in the East River Watershed, CO, USA. Global Biogeochemical Cycles, 35(12). https://doi.org/10.1029/2021GB006972
+
+Conroy, H. D., Hotchkiss, E. R., Cawley, K. M., Goodman, K., Hall, R. O., Jr., Jones, J. B., et al. (2023). Seasonality drives carbon emissions along a stream network. Journal of Geophysical Research: Biogeosciences, 128, e2023JG007439. https://doi-org.offcampus.lib.washington.edu/10.1029/2023JG007439 
  
