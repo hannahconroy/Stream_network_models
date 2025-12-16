@@ -1,0 +1,1 @@
+This folder contains the WEPP version of the Stream Network Model which uses the Watershed Erosion Prediction Project to estimate stream intermittence. This version is no longer being used in the main analysis and is instead a supplement to test impacts of different model. 
